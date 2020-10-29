@@ -5,6 +5,5 @@ Group 4's awesome team members:
 1. Kate Baldwin
 2. Hijiri Maruo
 3. Nha Hoang
-4. Abdullah Aljanabi
-5. Ahmed Hamad
+4. Ahmed Hamad
 
